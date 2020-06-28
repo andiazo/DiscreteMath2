@@ -1,2 +1,2 @@
-# CodigosUniversidad
-Proyectos realizados en cursos de la Unal.
+# Discret Math
+This repository contains some python notebooks about discrete maths excercises.
